@@ -1,6 +1,6 @@
 # Scientific Investment Philosophy
 
-This is a repository for the Scientific Investment Philosophy at KAIST MBA Lecture (Prof. BT, Lee)
+This repository contains materials from the guest lecture titled "Scientific Investment Philosophy," presented as part of the KAIST MBA course (Prof. B.T. Lee).
 
 ## Introduction
 - Instructor: [Jongho Kim](https://jonghkim.github.io/)
