@@ -3,9 +3,10 @@
 This is a repository for the Scientific Investment Philosophy at KAIST MBA Lecture (Prof. BT, Lee)
 
 ## Introduction
-- Instructor: [Jongho Kim](https://jonghkim.github.io/), Quantitative Researcher at December and Company (quantic.jh@gmail.com)
+- Instructor: [Jongho Kim](https://jonghkim.github.io/)
+  - (Current) PhD Student, SC Johnson Graduate School of Management, Cornell University
+  - (Previous) Quantitative Porftolio Manager at December and Company
 - This session focuses on 1. underlying mechanisms behind roboadvisory services and 2. empirical asset pricing models
-
 
 ## For Citation
 ```
