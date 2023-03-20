@@ -5,7 +5,7 @@ This is a repository for the Scientific Investment Philosophy at KAIST MBA Lectu
 ## Introduction
 - Instructor: [Jongho Kim](https://jonghkim.github.io/)
   - (Current) PhD Student, SC Johnson Graduate School of Management, Cornell University
-  - (Previous) Quantitative Porftolio Manager at December and Company
+  - (Previous) Quantitative Porftolio Manager at December and Company Asset Management
 - This session focuses on 1. underlying mechanisms behind roboadvisory services and 2. empirical asset pricing models
 
 ## For Citation
